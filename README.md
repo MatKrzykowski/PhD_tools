@@ -1,2 +1,3 @@
+# PhD tools
 
-# PhD_tools
+Collection of minor tools developed for my PhD thesis
