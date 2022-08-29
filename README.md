@@ -2,4 +2,4 @@
 
 Collection of minor tools developed for my PhD thesis:
 * Gnuplot_latex - bash function used for generation of graph PDFs using gnuplot and LaTeX
-* Hamiltonian_symmetry - Julia script used for calculating symmetry of kp Hamiltonian
+* Hamiltonian_symmetry - Julia script used for calculating symmetry of a Hamiltonian with a piezoelectric field
